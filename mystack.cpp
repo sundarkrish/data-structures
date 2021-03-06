@@ -1,4 +1,4 @@
-//author :sundarkrish
+//author :sundar.k
 //date:26-june-2017
 
 #include <iostream>
